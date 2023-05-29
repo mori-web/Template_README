@@ -24,7 +24,7 @@
 ## Author
 <!-- 著者名（自分の情報を書く） -->
 <!-- Twitterアカウント -->
-<!-- [twitter](https://twitter.com/kumaron_web) -->
+<!-- [twitter](https://twitter.com/) -->
 
 ## Licence
 <!-- 例：[MIT](https://......) -->
